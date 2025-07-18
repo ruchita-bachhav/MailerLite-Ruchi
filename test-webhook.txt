@@ -2,4 +2,4 @@ Webhook test - timestamp: 2025-07-18T12:30:00Z
 
 This file was created to test the webhook notification system.
 When this gets committed, it should automatically send commit details to:
-https://webhook.site/bebd9100-18be-4178-a303-46e2d059f43a 
+https://webhook.site/bebd9100-18be-4178-a303-46e2d059f43a
