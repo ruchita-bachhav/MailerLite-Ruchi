@@ -21,7 +21,7 @@ var app = {
     }
     result.isError = true;
     result.message = "Invalid JSON";
-    __Logger.logPair("result", JSON.stringify(result));
+    __Logger.logPair("result1", JSON.stringify(result));
     return result;
   },
   returnError: function (result) {
