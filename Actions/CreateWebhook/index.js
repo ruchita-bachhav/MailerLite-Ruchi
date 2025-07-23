@@ -1,1 +1,5 @@
-// No ActionScript_c
+{
+  action = {
+    console.log("create webhook action script");
+  };
+} // No ActionScript_c

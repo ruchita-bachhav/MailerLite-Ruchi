@@ -1,5 +1,5 @@
-var action={
-    post:function(re){
-        __Logger.logPair("delete",re.Body);
-    }
+{
+  action = {
+    console.log("delete webhook action script");
+  };
 }
