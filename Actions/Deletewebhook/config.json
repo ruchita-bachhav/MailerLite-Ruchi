@@ -21,7 +21,7 @@
     "Name": "Akshay Saundane"
   },
   "Type_c": "Action",
-  "Label_c": "Delete webhook",
+  "Label_c": "Delete WEBHOOK",
   "AppId_c": {
     "ID": 1016,
     "Name": "MailerLiteRuchi"
@@ -32,7 +32,7 @@
   "Method_c": "DELETE",
   "ActionScript_c": "var action={\n    post:function(re){\n        __Logger.logPair(\"delete\",re.Body);\n    }\n}",
   "IsTestAction_c": false,
-  "IsHidden_c": true,
+  "IsHidden_c": false,
   "DelegateActionId_c": {
     "ID": 0,
     "Name": ""
