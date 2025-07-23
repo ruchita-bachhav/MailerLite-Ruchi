@@ -5,7 +5,7 @@
       "ID": 4,
       "Name": "Akshay Saundane"
     },
-    "Label_c": "Event",
+    "Label_c": "Webhook Event",
     "Type_c": "String",
     "ParentKey_c": "",
     "ActionId_c": {
@@ -63,7 +63,7 @@
       "ID": 4,
       "Name": "Akshay Saundane"
     },
-    "Label_c": "Webhook Url",
+    "Label_c": "Webhook URL",
     "Type_c": "String",
     "ParentKey_c": "",
     "ActionId_c": {
