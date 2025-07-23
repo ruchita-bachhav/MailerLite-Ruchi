@@ -23,7 +23,7 @@
   "Label_c": "MailerLite Ruchi",
   "LogoUrl_c": "https://integrately-app-logos.s3-us-west-2.amazonaws.com/mailerlite.png",
   "IsStandard_c": false,
-  "Description_c": "",
+  "Description_c": "This is test desc for mailerlite",
   "AuthType_c": "ApiKey",
   "AuthMapping_c": "{\n\"X-MailerLite-ApiKey\":\"{{apikey}}\"\n}",
   "AuthTitleMapping_c": "apikey",
