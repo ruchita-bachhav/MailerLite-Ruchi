@@ -21,7 +21,7 @@
     "Name": "Akshay Saundane"
   },
   "Type_c": "Action",
-  "Label_c": "Create Webhook",
+  "Label_c": "Create WEBHOOK",
   "AppId_c": {
     "ID": 1016,
     "Name": "MailerLiteRuchi"
