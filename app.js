@@ -20,8 +20,8 @@ var app = {
       return result;
     }
     result.isError = true;
-    result.message = "Invalid JSON R";
-    __Logger.logPair("result11", JSON.stringify(result));
+    result.message = "Invalid JSON RES";
+    __Logger.logPair("result1111", JSON.stringify(result));
     return result;
   },
   returnError: function (result) {
